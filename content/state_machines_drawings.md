@@ -53,4 +53,4 @@ void loop(){
 ```
 
 
-[Main Menu](../readme.md)
+[Main Menu](../readme.md) | [Next](./basicElectronics.md)
