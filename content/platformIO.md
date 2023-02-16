@@ -49,4 +49,4 @@ Just click install and the magic happens!
 
 
 
-[Main Menu](../README.md) | [Next](./basicElectronics.md)
+[Main Menu](../README.md) | [Next](./git101.md)
