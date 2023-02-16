@@ -29,6 +29,6 @@ If you find any typo or error in the documentation, feel free to create a pull r
 10. [Broaden Your Horizons](./content/broadenYourHorizons.md) - Other IDEs
 
 ## Extras
-11. [Github Basics](./content/git.md) 
+11. [Github Basics](./content/git101.md) 
 12. [State Machines](./content/state_machines_drawings.md)
 
