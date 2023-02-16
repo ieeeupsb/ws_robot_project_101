@@ -52,4 +52,4 @@ Use <br><code>avrdude -c arduino -p atmega328p -P /dev/ttyUSB0 -U flash:w:yourfi
 
 
 
-[Main Menu](../README.md)
+[Main Menu](../README.md) | [Next](./git101.md)
